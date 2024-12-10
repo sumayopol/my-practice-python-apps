@@ -9,6 +9,7 @@ Development approach
 
 '''
 
+
 def compute_order(size, pepperoni, cheese): # the function compute_order receives 3 parameters from the pizza_order function
     #creates a dictionary (price) of pizza sizes and corresponding price
     price = {
