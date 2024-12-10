@@ -66,7 +66,9 @@ while True:
     print(f" \n User's Choice : {human_choice} Computer's Choice: {comp_choice} ")
     #print("\n '0' for rock, '1' for paper and '2' for scissors: ")
     print("0. Rock wins against scissors")
+
     print("1. Scissors wins against paper")
+
     print("2. Paper wins against rock")
     print()
     #print(f" Computer Choice: {comp_choice} ")
