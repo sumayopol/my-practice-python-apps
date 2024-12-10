@@ -79,4 +79,4 @@ while True:
             elif cheese == "N":
                 s_extra_cheese = 0
                 spc_price = small_price + s_extra_pep + s_extra_cheese
-                print(f"Price for M pizaa with NO extra Pepperoni but with extra Cheese is {spc_price}")
+                print(f"Price for M pizza with NO extra Pepperoni but with extra Cheese is {spc_price}")
