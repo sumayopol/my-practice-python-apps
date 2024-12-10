@@ -26,5 +26,6 @@ while True:
             window["output"].update("Please enter valid numbers! ")
 
 
+print("Bye!")
 window.close()
 
