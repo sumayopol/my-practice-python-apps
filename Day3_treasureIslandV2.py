@@ -78,5 +78,7 @@ def play_game():
             print("Please choose 'Left' or 'Right': ")
 
 print("Bye!")
+
 show_game_logo()
+
 play_game()
