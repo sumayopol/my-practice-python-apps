@@ -46,4 +46,4 @@ random.shuffle(password)
 
 final_password = ' '.join(password)
 
-print(f" Final suggested password: [{final_password}]")
+print(f" Final suggested password:  {final_password} ")
