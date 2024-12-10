@@ -12,4 +12,4 @@ share_amt = float(total_bill / num_of_friends)
 
 #print(f"Here is the amount each need to share: {share_amt}" )
 
-print("Here is the amount each has to share : " + str(share_amt))
+print(" Here is the amount each has to share : " + str(share_amt))
