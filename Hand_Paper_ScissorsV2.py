@@ -66,6 +66,7 @@ while True:
 
     valid_choices = [0, 1, 2]
 
+
     if users_choice in valid_choices:
         if users_choice == computer_choice:
             print("It's a Draw!...You Lose!")
