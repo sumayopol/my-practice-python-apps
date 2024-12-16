@@ -1,5 +1,5 @@
 
-def hangman_arts(lives):
+def hangman_arts(lives_on):
 
         stages =[r'''
           +---+
@@ -58,7 +58,21 @@ def hangman_arts(lives):
               |
         =========
         ''']
-        return stages[lives]
+        return stages[lives_on]
 
 
+
+def hangman_logo():
+
+        logo = r"""
+         _                                             
+        | |                                            
+        | |__   __ _ _ __   __ _ _ __ ___   __ _ _ __  
+        | '_ \ / _` | '_ \ / _` | '_ ` _ \ / _` | '_ \ 
+        | | | | (_| | | | | (_| | | | | | | (_| | | | |
+        |_| |_|\__,_|_| |_|\__, |_| |_| |_|\__,_|_| |_|
+                            __/ |                      
+                           |___/    """
+
+        return logo
 
