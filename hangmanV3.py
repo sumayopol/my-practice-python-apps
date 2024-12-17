@@ -75,6 +75,7 @@ while cont:
             print(f"The word was: {athletes_name.upper()}")
             break
 
+
         # Check for lose condition
         if lives_on == 0:
             print("\nYou lose!")
